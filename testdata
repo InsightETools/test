@@ -1,0 +1,57 @@
+{
+  "company_name": "",
+  "logo_url": "",
+  "company_address1": "",
+  "company_address2": "",
+  "company_city": "",
+  "company_state": "",
+  "company_zip": "",
+  "company_phone": "",
+  "company_email": "",
+  "companyRep": "",
+  "companyRepTitle": "",
+  "signature_url": "",
+  "employee_name": "",
+  "employee_firstname": "",
+  "employee_address1": "",
+  "employee_address2": "",
+  "employee_city": "",
+  "employee_state": "",
+  "employee_zip": "",
+  "primary_color": "",
+  "secondary_color": "",
+  "statement_year": "",
+  "statement_start": "",
+  "statement_end": "",
+  "statement_subheader": "",
+  "statement_header_one": "",
+  "statement_header_two": "",
+  "comp_total_value": "",
+  "cost_total_value": "",
+  "categories": [
+    {
+      "Label": "",
+      "Color": "",
+      "Value": ""
+    }
+  ],
+  "list_categories": [
+    {
+      "Label": "",
+      "Color": "",
+      "items": [
+        {
+          "id": "",
+          "label": "",
+          "description": "",
+          "enrolled": "",
+          "col1_value": "",
+          "col2_value": "",
+          "item_total": ""
+        }
+      ],
+      "col1_subtotal": "",
+      "col2_subtotal": ""
+    }
+  ]
+}
