@@ -19,6 +19,7 @@
   "employeeZip": "employeeZip",
   "statementRange": "statementRange",
   "statementYear": "statementYear",
+  "statementEffectiveDate": "statementEffectiveDate",
   
   "TotalCompensationValue": 177783.03542000003,
   "TotalCompensation2Value": 177784.03542000003,
