@@ -38,7 +38,11 @@
     { "Label": "Employee", "Color": "1a488d", "Value": 66.0 }
   ],
   
-  "CustomSoloBreakout": [],
+  "CustomSoloBreakout": [
+    { "Label": "Label",
+      "Value": "Value"
+    }
+  ],
   "PtoBreakout": null,
   "SummaryHeaderCol1": "Employee",
   "SummaryHeaderCol2": "Employer",
