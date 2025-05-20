@@ -43,7 +43,11 @@
       "value": "value"
     }
   ],
-  "ptoBreakout": null,
+  "ptoBreakout": [
+    { "label": "label",
+      "value": "value"
+    }    
+  ]
   "summaryHeaderCol1": "Employee",
   "summaryHeaderCol2": "Employer",
   "summaryGroups": [
