@@ -70,7 +70,7 @@
       "col2_subtotal": 156011.84000000003
     },
     {
-      "Label": "Taxes",
+      "label": "Taxes",
       "shortLabel": "Taxes",
       "color": "ff0000",
       "items": [
