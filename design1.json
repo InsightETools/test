@@ -1,18 +1,26 @@
 {
-  "employee_name": "Derek Kelly",
-  "first_name": " Derek",
-  "logo_url": "https://cdn.prod.website-files.com/6809171f634ed03b8d7997ab/6809171f634ed03b8d799918_Insight%20e-Tools_Full%20Color.png",
-  "signature_url": "https://etools.secure-solutions.biz/totalcompadmin/clientdata/604/AudraSignature_A8E4ENF.png",
-  "signature_height": 61,
-  "signature_width": 196,
-  "subheader": "January 2024 - December 2024",
-  "employee_address1": "256 Brenrich Cove North ",
-  "employee_address2": " ",
-  "employee_city": "Memphis ",
-  "employee_state": "Tn",
-  "employee_zip": "38117 ",
+  "companyName": "companyName",
+  "companyLogo": "companyLogo",
+  "companySignature": "companySignature",
+  "companyAttn": "companyAttn",
+  "companyAddress": "companyAddress",
+  "companyUnit": "companyUnit",
+  "companyCity": "companyCity",
+  "companyState": "companyState",
+  "companyZip": "companyZip",
+  "employeeName": "employeeName",
+  "employeeFirstName": "employeeFirstName",
+  "employeeAddress": "employeeAddress",
+  "employeeUnit": "employeeUnit",
+  "employeeCity": "employeeCity",
+  "employeeState": "employeeState",
+  "employeeZip": "employeeZip",
+  "statementRange": "statementRange",
+  "statementYear": "statementYear",
+  
   "TotalCompensationValue": 177783.03542000003,
   "TotalCompensation2Value": 177784.03542000003,
+  
   "CategoryGroups": [
     { "Label": "Cash Comp", "Color": "35b1ea", "Value": 87.75 },
     { "Label": "Taxes", "Color": "ff0000", "Value": 12.25 },
@@ -21,10 +29,12 @@
     { "Label": "Donations", "Color": "c84e5d", "Value": 0.0 },
     { "Label": "Misc", "Color": "d4d4d4", "Value": 0.0 }
   ],
+  
   "CategoryGroups2": [
     { "Label": "Company", "Color": "8addd4", "Value": 33.0 },
     { "Label": "Employee", "Color": "1a488d", "Value": 66.0 }
   ],
+  
   "CustomSoloBreakout": [],
   "PtoBreakout": null,
   "SummaryHeaderCol1": "Employee",
