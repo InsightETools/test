@@ -21,36 +21,36 @@
   "statementYear": "statementYear",
   "statementEffectiveDate": "statementEffectiveDate",
   
-  "TotalCompensationValue": 177783.03542000003,
-  "TotalCompensation2Value": 177784.03542000003,
+  "totalCompensationValue": 177783.03542000003,
+  "totalCompensation2Value": 177784.03542000003,
   
-  "CategoryGroups": [
-    { "Label": "Cash Comp", "Color": "35b1ea", "Value": 87.75 },
-    { "Label": "Taxes", "Color": "ff0000", "Value": 12.25 },
-    { "Label": "Health", "Color": "5ee1ff", "Value": 0.0 },
-    { "Label": "Retirement", "Color": "08ff00", "Value": 0.0 },
-    { "Label": "Donations", "Color": "c84e5d", "Value": 0.0 },
-    { "Label": "Misc", "Color": "d4d4d4", "Value": 0.0 }
+  "categoryGroups": [
+    { "label": "Cash Comp", "color": "35b1ea", "value": 87.75 },
+    { "label": "Taxes", "color": "ff0000", "value": 12.25 },
+    { "label": "Health", "color": "5ee1ff", "value": 0.0 },
+    { "label": "Retirement", "color": "08ff00", "value": 0.0 },
+    { "label": "Donations", "color": "c84e5d", "value": 0.0 },
+    { "label": "Misc", "color": "d4d4d4", "value": 0.0 }
   ],
   
-  "CategoryGroups2": [
-    { "Label": "Company", "Color": "8addd4", "Value": 33.0 },
-    { "Label": "Employee", "Color": "1a488d", "Value": 66.0 }
+  "categoryGroups2": [
+    { "label": "Company", "color": "8addd4", "value": 33.0 },
+    { "label": "Employee", "color": "1a488d", "value": 66.0 }
   ],
   
-  "CustomSoloBreakout": [
-    { "Label": "Label",
-      "Value": "Value"
+  "customSoloBreakout": [
+    { "label": "label",
+      "value": "value"
     }
   ],
-  "PtoBreakout": null,
-  "SummaryHeaderCol1": "Employee",
-  "SummaryHeaderCol2": "Employer",
-  "SummaryGroups": [
+  "ptoBreakout": null,
+  "summaryHeaderCol1": "Employee",
+  "summaryHeaderCol2": "Employer",
+  "summaryGroups": [
     {
-      "Label": "Compensation",
-      "ShortLabel": "Cash Comp",
-      "Color": "35b1ea",
+      "label": "Compensation",
+      "shortLabel": "Cash Comp",
+      "color": "35b1ea",
       "items": [
         {
           "label": "Bonus",
@@ -71,8 +71,8 @@
     },
     {
       "Label": "Taxes",
-      "ShortLabel": "Taxes",
-      "Color": "ff0000",
+      "shortLabel": "Taxes",
+      "color": "ff0000",
       "items": [
         {
           "label": "FICA (SS & Medicare)",
@@ -99,9 +99,9 @@
       "col2_subtotal": 21771.19542
     },
     {
-      "Label": "Insurance Benefits",
-      "ShortLabel": "Health",
-      "Color": "5ee1ff",
+      "label": "Insurance Benefits",
+      "shortLabel": "Health",
+      "color": "5ee1ff",
       "items": [
         { "label": "Medical ", "col1_value": 9294.12, "col2_value": 0.0 },
         { "label": "Dental", "col1_value": 1308.36, "col2_value": 0.0 },
@@ -111,9 +111,9 @@
       "col2_subtotal": 0.0
     },
     {
-      "Label": "Retirement Benefits",
-      "ShortLabel": "Retirement",
-      "Color": "08ff00",
+      "label": "Retirement Benefits",
+      "shortLabel": "Retirement",
+      "color": "08ff00",
       "items": [
         {
           "label": "Profit Sharing",
@@ -125,9 +125,9 @@
       "col2_subtotal": 0.0
     },
     {
-      "Label": "Donations",
-      "ShortLabel": "Donations",
-      "Color": "c84e5d",
+      "label": "Donations",
+      "shortLabel": "Donations",
+      "color": "c84e5d",
       "items": [
         {
           "label": "AAOS",
@@ -140,9 +140,9 @@
       "col2_subtotal": 0.0
     },
     {
-      "Label": "Miscellaneous",
-      "ShortLabel": "Misc",
-      "Color": "d4d4d4",
+      "label": "Miscellaneous",
+      "shortLabel": "Misc",
+      "color": "d4d4d4",
       "items": [
         {
           "label": "Business Expense Reimbursement Account (BERA)",
@@ -154,6 +154,6 @@
       "col2_subtotal": 0.0
     }
   ],
-  "Col1_GrandTotal": 0.0,
-  "Col2_GrandTotal": 0.0
+  "col1_GrandTotal": 0.0,
+  "col2_GrandTotal": 0.0
 }
