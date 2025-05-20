@@ -1,7 +1,9 @@
 {
   "companyName": "companyName",
   "companyLogo": "companyLogo",
-  "companySignature": "companySignature",
+  "companyRepName": "companyRepName",
+  "companyRepTitle": "companyRepTitle",
+  "companyRepSignature": "companyRepSignature",
   "companyAttn": "companyAttn",
   "companyAddress": "companyAddress",
   "companyUnit": "companyUnit",
