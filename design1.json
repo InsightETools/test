@@ -1,0 +1,141 @@
+{
+  "employee_name": "Kelly, Derek Michael",
+  "first_name": " Derek Michael",
+  "signature_url": "https://etools.secure-solutions.biz/totalcompadmin/clientdata/604/AudraSignature_A8E4ENF.png",
+  "signature_height": 61,
+  "signature_width": 196,
+  "subheader": "January 2024 - December 2024",
+  "employee_address1": "256 Brenrich Cove North ",
+  "employee_address2": " ",
+  "employee_city": "Memphis ",
+  "employee_state": "Tn",
+  "employee_zip": "38117 ",
+  "TotalCompensationValue": 177783.03542000003,
+  "TotalCompensation2Value": 177784.03542000003,
+  "CategoryGroups": [
+    { "Label": "Cash Comp", "Color": "35b1ea", "Value": 87.75 },
+    { "Label": "Taxes", "Color": "ff0000", "Value": 12.25 },
+    { "Label": "Health", "Color": "5ee1ff", "Value": 0.0 },
+    { "Label": "Retirement", "Color": "08ff00", "Value": 0.0 },
+    { "Label": "Donations", "Color": "c84e5d", "Value": 0.0 },
+    { "Label": "Misc", "Color": "d4d4d4", "Value": 0.0 }
+  ],
+  "CategoryGroups2": [
+    { "Label": "Company", "Color": "8addd4", "Value": 33.0 },
+    { "Label": "Employee", "Color": "1a488d", "Value": 66.0 }
+  ],
+  "CustomSoloBreakout": [],
+  "PtoBreakout": null,
+  "SummaryHeaderCol1": "Employee",
+  "SummaryHeaderCol2": "Employer",
+  "SummaryGroups": [
+    {
+      "Label": "Compensation",
+      "ShortLabel": "Cash Comp",
+      "Color": "35b1ea",
+      "items": [
+        {
+          "label": "Bonus",
+          "col1_value": 0.0,
+          "col2_value": 99475.200000000012
+        },
+        { "label": "Incentive", "col1_value": 0.0, "col2_value": 43514.48 },
+        { "label": "Consulting", "col1_value": 0.0, "col2_value": 2345.0 },
+        { "label": "HSA ", "col1_value": 0.0, "col2_value": 8718.4 },
+        {
+          "label": "RetireGuard LTD ",
+          "col1_value": 0.0,
+          "col2_value": 1958.76
+        }
+      ],
+      "col1_subtotal": 0.0,
+      "col2_subtotal": 156011.84000000003
+    },
+    {
+      "Label": "Taxes",
+      "ShortLabel": "Taxes",
+      "Color": "ff0000",
+      "items": [
+        {
+          "label": "FICA (SS & Medicare)",
+          "col1_value": 26899.730000000003,
+          "col2_value": 21711.69542
+        },
+        {
+          "label": "Federal Income Tax Withheld",
+          "col1_value": 245654.63999999998,
+          "col2_value": 0.0
+        },
+        {
+          "label": "Federal Unemployment Insurance",
+          "col1_value": 0.0,
+          "col2_value": 42.0
+        },
+        {
+          "label": "State Unemployment Insurance",
+          "col1_value": 0.0,
+          "col2_value": 17.5
+        }
+      ],
+      "col1_subtotal": 272554.37,
+      "col2_subtotal": 21771.19542
+    },
+    {
+      "Label": "Insurance Benefits",
+      "ShortLabel": "Health",
+      "Color": "5ee1ff",
+      "items": [
+        { "label": "Medical ", "col1_value": 9294.12, "col2_value": 0.0 },
+        { "label": "Dental", "col1_value": 1308.36, "col2_value": 0.0 },
+        { "label": "Vision", "col1_value": 210.36, "col2_value": 0.0 }
+      ],
+      "col1_subtotal": 10812.840000000002,
+      "col2_subtotal": 0.0
+    },
+    {
+      "Label": "Retirement Benefits",
+      "ShortLabel": "Retirement",
+      "Color": "08ff00",
+      "items": [
+        {
+          "label": "Profit Sharing",
+          "col1_value": 23000.000000000004,
+          "col2_value": 0.0
+        }
+      ],
+      "col1_subtotal": 23000.000000000004,
+      "col2_subtotal": 0.0
+    },
+    {
+      "Label": "Donations",
+      "ShortLabel": "Donations",
+      "Color": "c84e5d",
+      "items": [
+        {
+          "label": "AAOS",
+          "col1_value": 500.04000000000013,
+          "col2_value": 0.0
+        },
+        { "label": "TOS", "col1_value": 249.95999999999992, "col2_value": 0.0 }
+      ],
+      "col1_subtotal": 750.0,
+      "col2_subtotal": 0.0
+    },
+    {
+      "Label": "Miscellaneous",
+      "ShortLabel": "Misc",
+      "Color": "d4d4d4",
+      "items": [
+        {
+          "label": "Business Expense Reimbursement Account (BERA)",
+          "col1_value": 1800.0,
+          "col2_value": 0.0
+        }
+      ],
+      "col1_subtotal": 1800.0,
+      "col2_subtotal": 0.0
+    }
+  ],
+  "Col1_GrandTotal": 0.0,
+  "Col2_GrandTotal": 0.0
+}
