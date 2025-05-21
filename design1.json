@@ -20,10 +20,11 @@
   "statementRange": "January 2024 - December 2024",
   "statementYear": "2024",
   "statementEffectiveDate": "March 2025",
-  
+  "primaryColor": "#52c1f1",  
+  "secondaryColor": "#4488c1",
   "totalCompensationValue": 177783.03542000003,
   "totalCompensation2Value": 177784.03542000003,
-  
+  "tableColor": "#4089c3",
   "categoryGroups": [
     { "label": "Cash Comp", "color": "35b1ea", "value": 87.75 },
     { "label": "Taxes", "color": "ff0000", "value": 12.25 },
