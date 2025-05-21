@@ -50,7 +50,7 @@
     {
       "label": "Compensation",
       "shortLabel": "Compensation",
-      "color": "3a9fbb",
+      "color": "ff5f00",
       "items": [
         { "label": "Base Salary", "col1_value": 0.0, "col2_value": 120000.0 },
         { "label": "Performance Bonus", "col1_value": 0.0, "col2_value": 17500.0 },
@@ -64,7 +64,7 @@
     {
       "label": "Taxes",
       "shortLabel": "Taxes",
-      "color": "e63946",
+      "color": "146666",
       "items": [
         { "label": "FICA (SS & Medicare)", "col1_value": 9500.0, "col2_value": 7200.0 },
         { "label": "Federal Income Tax Withheld", "col1_value": 22300.0, "col2_value": 0.0 },
