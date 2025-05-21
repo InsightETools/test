@@ -98,7 +98,7 @@
     },
     {
       "label": "Charitable Giving",
-      "shortLabel": "Charitable Giving",
+      "shortLabel": "Charitable",
       "color": "f4a261",
       "items": [
         { "label": "United Way", "col1_value": 300.0, "col2_value": 0.0 },
