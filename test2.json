@@ -49,7 +49,7 @@
   "summaryGroups": [
     {
       "label": "Compensation",
-      "shortLabel": "Cash Compensation",
+      "shortLabel": "Compensation",
       "color": "3a9fbb",
       "items": [
         { "label": "Base Salary", "col1_value": 0.0, "col2_value": 120000.0 },
