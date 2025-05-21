@@ -35,8 +35,8 @@
     { "label": "Other Benefits", "color": "bdbdbd", "value": 0.5 }
   ],
   "categoryGroups2": [
-    { "label": "Company Contribution", "color": "90e0ef", "value": 40.0 },
-    { "label": "Employee Contribution", "color": "0077b6", "value": 60.0 }
+    { "label": "Company", "color": "90e0ef", "value": 40.0 },
+    { "label": "Employee", "color": "0077b6", "value": 60.0 }
   ],
   "customSoloBreakout": [
     { "label": "Continuing Education Stipend", "value": "$1,500" }
