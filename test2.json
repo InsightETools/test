@@ -27,8 +27,8 @@
   "totalCompensation2Value": 194561.25,
   "tableColor": "#ff5f00",
   "categoryGroups": [
-    { "label": "Cash Compensation", "color": "146666", "value": 85.0 },
-    { "label": "Taxes", "color": "e63946", "value": 10.0 },
+    { "label": "Cash Compensation", "color": "ff5f00", "value": 85.0 },
+    { "label": "Taxes", "color": "146666", "value": 10.0 },
     { "label": "Healthcare", "color": "a8dadc", "value": 3.0 },
     { "label": "Retirement", "color": "06d6a0", "value": 1.0 },
     { "label": "Charitable Giving", "color": "f4a261", "value": 0.5 },
