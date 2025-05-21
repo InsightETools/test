@@ -11,8 +11,8 @@
   "companyCity": "Nashville",
   "companyState": "TN",
   "companyZip": "37203",
-  "employeeName": "Taylor Andrews",
-  "employeeFirstName": "Taylor",
+  "employeeName": "Andrews, Taylor Renee",
+  "employeeFirstName": "Taylor Renee",
   "employeeAddress": "809 Brookstone Court",
   "employeeUnit": "Apt 4B",
   "employeeCity": "Brentwood",
@@ -52,75 +52,59 @@
       "shortLabel": "Cash Compensation",
       "color": "3a9fbb",
       "items": [
-        { "label": "Base Salary", "col1_value": 0.0, "col2_value": 120000.00 },
-        { "label": "Performance Bonus", "col1_value": 0.0, "col2_value": 17500.00 },
-        { "label": "Overtime", "col1_value": 0.0, "col2_value": 3400.00 },
-        { "label": "On-call Pay", "col1_value": 0.0, "col2_value": 2600.00 },
-        { "label": "Wellness Incentives", "col1_value": 0.0, "col2_value": 900.00 }
+        { "label": "Base Salary", "col1_value": 0.0, "col2_value": 120000.0 },
+        { "label": "Performance Bonus", "col1_value": 0.0, "col2_value": 17500.0 },
+        { "label": "Overtime", "col1_value": 0.0, "col2_value": 3400.0 },
+        { "label": "On-call Pay", "col1_value": 0.0, "col2_value": 2600.0 },
+        { "label": "Wellness Incentives", "col1_value": 0.0, "col2_value": 900.0 }
       ],
       "col1_subtotal": 0.0,
-      "col2_subtotal": 144400.00
+      "col2_subtotal": 144400.0
     },
     {
       "label": "Taxes",
       "shortLabel": "Taxes",
       "color": "e63946",
       "items": [
-        {
-          "label": "FICA (SS & Medicare)",
-          "col1_value": 9500.00,
-          "col2_value": 7200.00
-        },
-        {
-          "label": "Federal Income Tax Withheld",
-          "col1_value": 22300.00,
-          "col2_value": 0.0
-        },
-        {
-          "label": "Federal Unemployment Insurance",
-          "col1_value": 0.0,
-          "col2_value": 95.00
-        },
-        {
-          "label": "State Unemployment Insurance",
-          "col1_value": 0.0,
-          "col2_value": 50.00
-        }
+        { "label": "FICA (SS & Medicare)", "col1_value": 9500.0, "col2_value": 7200.0 },
+        { "label": "Federal Income Tax Withheld", "col1_value": 22300.0, "col2_value": 0.0 },
+        { "label": "Federal Unemployment Insurance", "col1_value": 0.0, "col2_value": 95.0 },
+        { "label": "State Unemployment Insurance", "col1_value": 0.0, "col2_value": 50.0 }
       ],
-      "col1_subtotal": 31800.00,
-      "col2_subtotal": 7345.00
+      "col1_subtotal": 31800.0,
+      "col2_subtotal": 7345.0
     },
     {
       "label": "Insurance Benefits",
       "shortLabel": "Healthcare",
       "color": "a8dadc",
       "items": [
-        { "label": "Medical", "col1_value": 4320.00, "col2_value": 10800.00 },
-        { "label": "Dental", "col1_value": 520.00, "col2_value": 1250.00 },
-        { "label": "Vision", "col1_value": 160.00, "col2_value": 400.00 }
+        { "label": "Medical", "col1_value": 4320.0, "col2_value": 10800.0 },
+        { "label": "Dental", "col1_value": 520.0, "col2_value": 1250.0 },
+        { "label": "Vision", "col1_value": 160.0, "col2_value": 400.0 }
       ],
-      "col1_subtotal": 5000.00,
-      "col2_subtotal": 12450.00
+      "col1_subtotal": 5000.0,
+      "col2_subtotal": 12450.0
     },
     {
       "label": "Retirement Benefits",
       "shortLabel": "Retirement",
       "color": "06d6a0",
       "items": [
-        { "label": "401(k) Contributions", "col1_value": 5800.00, "col2_value": 8200.00 }
+        { "label": "401(k) Contributions", "col1_value": 5800.0, "col2_value": 8200.0 }
       ],
-      "col1_subtotal": 5800.00,
-      "col2_subtotal": 8200.00
+      "col1_subtotal": 5800.0,
+      "col2_subtotal": 8200.0
     },
     {
       "label": "Charitable Giving",
       "shortLabel": "Charitable Giving",
       "color": "f4a261",
       "items": [
-        { "label": "United Way", "col1_value": 300.00, "col2_value": 0.0 },
-        { "label": "Community Care Fund", "col1_value": 200.00, "col2_value": 0.0 }
+        { "label": "United Way", "col1_value": 300.0, "col2_value": 0.0 },
+        { "label": "Community Care Fund", "col1_value": 200.0, "col2_value": 0.0 }
       ],
-      "col1_subtotal": 500.00,
+      "col1_subtotal": 500.0,
       "col2_subtotal": 0.0
     },
     {
@@ -128,13 +112,13 @@
       "shortLabel": "Other Benefits",
       "color": "bdbdbd",
       "items": [
-        { "label": "Remote Work Stipend", "col1_value": 600.00, "col2_value": 0.0 },
-        { "label": "Commuter Benefits", "col1_value": 600.00, "col2_value": 0.0 }
+        { "label": "Remote Work Stipend", "col1_value": 600.0, "col2_value": 0.0 },
+        { "label": "Commuter Benefits", "col1_value": 600.0, "col2_value": 0.0 }
       ],
-      "col1_subtotal": 1200.00,
+      "col1_subtotal": 1200.0,
       "col2_subtotal": 0.0
     }
   ],
-  "col1_GrandTotal": 44300.00,
-  "col2_GrandTotal": 172395.00
+  "col1_GrandTotal": 44300.0,
+  "col2_GrandTotal": 172395.0
 }
