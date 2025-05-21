@@ -41,9 +41,7 @@
   ],
   
   "customSoloBreakout": [
-    { "label": "SURP",
-      "value": 250000
-    }
+    { "label": "SURP", "value": "$11,500" }
   ],
   "ptoBreakout": [
     { "label": "label",
