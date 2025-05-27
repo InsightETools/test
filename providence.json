@@ -1,0 +1,125 @@
+{
+  "companyName": "Orion Health Partners",
+  "coverSheet": true,
+  "companyLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Orion_Health_Logo_2022.svg/1200px-Orion_Health_Logo_2022.svg.png",
+  "companyMessage": "At Orion Health Partners, we are dedicated to delivering top-tier patient care while supporting our exceptional employees. Your contributions help drive innovation and compassionate service in everything we do. This annual statement highlights the investment we've made in your total compensation, benefits, and overall well-being.",
+  "companyRepName": "Maria Chen",
+  "companyRepTitle": "Director of People & Culture",
+  "companySignature": "https://cdn.prod.website-files.com/6809171f634ed03b8d7997ab/681295e0f653bdec29f8304f_PlaceholderSignature.png",
+  "companyAttn": "Human Resources Department",
+  "companyAddress": "450 Wellness Way",
+  "companyUnit": "Suite 200",
+  "companyCity": "Nashville",
+  "companyState": "TN",
+  "companyZip": "37203",
+  "employeeName": "Andrews, Taylor Renee",
+  "employeeFirstName": "Taylor Renee",
+  "employeeAddress": "809 Brookstone Court",
+  "employeeUnit": "Apt 4B",
+  "employeeCity": "Brentwood",
+  "employeeState": "TN",
+  "employeeZip": "37027",
+  "statementRange": "January 2024 - December 2024",
+  "statementYear": "2024",
+  "statementEffectiveDate": "March 2025",
+  "primaryColor": "#ff5f00",
+  "secondaryColor": "#146666",
+  "totalCompensationValue": 194560.25,
+  "totalCompensation2Value": 194561.25,
+  "tableColor": "#ff5f00",
+  "categoryGroups": [
+    { "label": "Cash Compensation", "color": "ff5f00", "value": 85.0 },
+    { "label": "Taxes", "color": "146666", "value": 10.0 },
+    { "label": "Healthcare", "color": "a8dadc", "value": 3.0 },
+    { "label": "Retirement", "color": "06d6a0", "value": 1.0 },
+    { "label": "Charitable Giving", "color": "f4a261", "value": 0.5 },
+    { "label": "Other Benefits", "color": "bdbdbd", "value": 0.5 }
+  ],
+  "categoryGroups2": [
+    { "label": "Company", "color": "ff5f00", "value": 40.0 },
+    { "label": "Employee", "color": "146666", "value": 60.0 }
+  ],
+  "customSoloBreakout": [
+    { "label": "Continuing Education Stipend", "value": "$1,500" }
+  ],
+  "ptoBreakout": [
+    { "label": "PTO Accrued", "value": "21 days" }
+  ],
+  "summaryHeaderCol1": "Employee",
+  "summaryHeaderCol2": "Employer",
+  "summaryGroups": [
+    {
+      "label": "Compensation",
+      "shortLabel": "Compensation",
+      "color": "ff5f00",
+      "items": [
+        { "label": "Base Salary", "col1_value": 0.0, "col2_value": 120000.0 },
+        { "label": "Performance Bonus", "col1_value": 0.0, "col2_value": 17500.0 },
+        { "label": "Overtime", "col1_value": 0.0, "col2_value": 3400.0 },
+        { "label": "On-call Pay", "col1_value": 0.0, "col2_value": 2600.0 },
+        { "label": "Wellness Incentives", "col1_value": 0.0, "col2_value": 900.0 }
+      ],
+      "col1_subtotal": 0.0,
+      "col2_subtotal": 144400.0
+    },
+    {
+      "label": "Taxes",
+      "shortLabel": "Taxes",
+      "color": "146666",
+      "items": [
+        { "label": "FICA (SS & Medicare)", "col1_value": 9500.0, "col2_value": 7200.0 },
+        { "label": "Federal Income Tax Withheld", "col1_value": 22300.0, "col2_value": 0.0 },
+        { "label": "Federal Unemployment Insurance", "col1_value": 0.0, "col2_value": 95.0 },
+        { "label": "State Unemployment Insurance", "col1_value": 0.0, "col2_value": 50.0 }
+      ],
+      "col1_subtotal": 31800.0,
+      "col2_subtotal": 7345.0
+    },
+    {
+      "label": "Insurance Benefits",
+      "shortLabel": "Healthcare",
+      "color": "a8dadc",
+      "items": [
+        { "label": "Medical", "col1_value": 4320.0, "col2_value": 10800.0 },
+        { "label": "Dental", "col1_value": 520.0, "col2_value": 1250.0 },
+        { "label": "Vision", "col1_value": 160.0, "col2_value": 400.0 }
+      ],
+      "col1_subtotal": 5000.0,
+      "col2_subtotal": 12450.0
+    },
+    {
+      "label": "Retirement Benefits",
+      "shortLabel": "Retirement",
+      "color": "06d6a0",
+      "items": [
+        { "label": "401(k) Contributions", "col1_value": 5800.0, "col2_value": 8200.0 }
+      ],
+      "col1_subtotal": 5800.0,
+      "col2_subtotal": 8200.0
+    },
+    {
+      "label": "Charitable Giving",
+      "shortLabel": "Charitable",
+      "color": "f4a261",
+      "items": [
+        { "label": "United Way", "col1_value": 300.0, "col2_value": 0.0 },
+        { "label": "Community Care Fund", "col1_value": 200.0, "col2_value": 0.0 }
+      ],
+      "col1_subtotal": 500.0,
+      "col2_subtotal": 0.0
+    },
+    {
+      "label": "Miscellaneous",
+      "shortLabel": "Other Benefits",
+      "color": "bdbdbd",
+      "items": [
+        { "label": "Remote Work Stipend", "col1_value": 600.0, "col2_value": 0.0 },
+        { "label": "Commuter Benefits", "col1_value": 600.0, "col2_value": 0.0 }
+      ],
+      "col1_subtotal": 1200.0,
+      "col2_subtotal": 0.0
+    }
+  ],
+  "col1_GrandTotal": 44300.0,
+  "col2_GrandTotal": 172395.0
+}
