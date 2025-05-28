@@ -28,7 +28,7 @@
   "primaryColor": "#ff5f00",
   "secondaryColor": "#146666",
   "tableColor": "#ff5f00",
-  "modulesDecimal": true,
+  "modulesDecimal": false,
   "modules": [
   {
     "id": "Comp",
