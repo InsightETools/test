@@ -3,6 +3,7 @@
   "coverSheet": true,
   "companyLogoCover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Orion_Health_Logo_2022.svg/1200px-Orion_Health_Logo_2022.svg.png",
   "companyLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Orion_Health_Logo_2022.svg/1200px-Orion_Health_Logo_2022.svg.png",
+  "companyWelcome": "Hi",
   "companyMessage": "At Orion Health Partners, we are dedicated to delivering top-tier patient care while supporting our exceptional employees. <br><br>Your contributions help drive innovation and compassionate service in everything we do. This annual statement highlights the investment we've made in your total compensation, benefits, and overall well-being.",
   "companyRepName": "Maria Chen",
   "companyRepTitle": "Director of People & Culture",
@@ -61,8 +62,13 @@
   "customSoloBreakout": [
     { "label": "Continuing Education Stipend", "value": "$1,500", "disclaimer": "Test Disclaimer"}
   ],
+  "ptoBreakoutLabel":"Test PTO Label",
+  "ptoBreakoutDecimal": true,
+  "ptoBreakoutDisclaimer": "Test PTO Disclaimer",  
   "ptoBreakout": [
-    { "label": "PTO Accrued", "value": "21 days" }
+    { "label": "Title 1", "value": "Value1", "unit": "unit1"},
+    { "label": "Title 2", "value": "Value2", "unit": "unit2"},
+    { "label": "Title 3", "value": "Value3", "unit": "unit3"}
   ],
   "summaryHeaderCol1": "Employee",
   "summaryHeaderCol2": "Employer",
