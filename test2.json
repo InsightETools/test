@@ -63,6 +63,7 @@
     { "label": "Continuing Education Stipend", "value": "$1,500", "disclaimer": "Test Disclaimer"}
   ],
   "ptoBreakoutLabel":"Test PTO Label",
+  "ptoBreakoutDescription": "Test PTO Description",
   "ptoBreakoutDecimal": true,
   "ptoBreakoutDisclaimer": "Test PTO Disclaimer",  
   "ptoBreakout": [
