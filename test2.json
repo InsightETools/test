@@ -27,10 +27,9 @@
   "statementDisclaimer": "Test Statement Disclaimer",
   "primaryColor": "#ff5f00",
   "secondaryColor": "#146666",
-  "totalCompensationValue": 194560.25,
-  "totalCompensation2Value": 194561.25,
   "tableColor": "#ff5f00",
-    "modules": [
+  "modulesDecimal": true,
+  "modules": [
   {
     "id": "Comp",
     "label": "Total Compensation",
@@ -58,6 +57,7 @@
     ]
   }
 ],
+  "customSoloBreakoutDecimal": true,
   "customSoloBreakout": [
     { "label": "Continuing Education Stipend", "value": "$1,500", "disclaimer": "Test Disclaimer"}
   ],
@@ -66,6 +66,7 @@
   ],
   "summaryHeaderCol1": "Employee",
   "summaryHeaderCol2": "Employer",
+  "summaryGroupsDecimal": true,
   "summaryGroups": [
     {
       "label": "Compensation",
