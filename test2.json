@@ -2,7 +2,7 @@
   "companyName": "Orion Health Partners",
   "coverSheet": true,
   "companyLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Orion_Health_Logo_2022.svg/1200px-Orion_Health_Logo_2022.svg.png",
-  "companyMessage": "At Orion Health Partners, we are dedicated to delivering top-tier patient care while supporting our exceptional employees. <br>Your contributions help drive innovation and compassionate service in everything we do. This annual statement highlights the investment we've made in your total compensation, benefits, and overall well-being.",
+  "companyMessage": "At Orion Health Partners, we are dedicated to delivering top-tier patient care while supporting our exceptional employees. <br><br>Your contributions help drive innovation and compassionate service in everything we do. This annual statement highlights the investment we've made in your total compensation, benefits, and overall well-being.",
   "companyRepName": "Maria Chen",
   "companyRepTitle": "Director of People & Culture",
   "companySignature": "https://cdn.prod.website-files.com/6809171f634ed03b8d7997ab/681295e0f653bdec29f8304f_PlaceholderSignature.png",
@@ -23,6 +23,7 @@
   "statementRange": "January 2024 - December 2024",
   "statementYear": "2024",
   "statementEffectiveDate": "March 2025",
+  "statementDisclaimer": "Test Statement Disclaimer",
   "primaryColor": "#ff5f00",
   "secondaryColor": "#146666",
   "totalCompensationValue": 194560.25,
@@ -41,7 +42,7 @@
     { "label": "Employee", "color": "#146666", "value": 60.0 }
   ],
   "customSoloBreakout": [
-    { "label": "Continuing Education Stipend", "value": "$1,500" }
+    { "label": "Continuing Education Stipend", "value": "$1,500", "disclaimer": "Test Disclaimer"}
   ],
   "ptoBreakout": [
     { "label": "PTO Accrued", "value": "21 days" }
