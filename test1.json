@@ -23,32 +23,28 @@
   "statementRange": "January 2024 - December 2024",
   "statementYear": "2024",
   "statementEffectiveDate": "March 2025",
-  "primaryColor": "#52c1f1",  
+  "primaryColor": "#52c1f1",
   "secondaryColor": "#4488c1",
   "totalCompensationValue": 177783.03542000003,
   "totalCompensation2Value": 177784.03542000003,
   "tableColor": "#4089c3",
   "categoryGroups": [
-    { "label": "Cash Comp", "color": "35b1ea", "value": 87.75 },
-    { "label": "Taxes", "color": "ff0000", "value": 12.25 },
-    { "label": "Health", "color": "5ee1ff", "value": 0.0 },
-    { "label": "Retirement", "color": "08ff00", "value": 0.0 },
-    { "label": "Donations", "color": "c84e5d", "value": 0.0 },
-    { "label": "Misc", "color": "d4d4d4", "value": 0.0 }
+    { "label": "Cash Comp", "color": "#35b1ea", "value": 87.75 },
+    { "label": "Taxes", "color": "#ff0000", "value": 12.25 },
+    { "label": "Health", "color": "#5ee1ff", "value": 0.0 },
+    { "label": "Retirement", "color": "#08ff00", "value": 0.0 },
+    { "label": "Donations", "color": "#c84e5d", "value": 0.0 },
+    { "label": "Misc", "color": "#d4d4d4", "value": 0.0 }
   ],
-  
   "categoryGroups2": [
-    { "label": "Company", "color": "8addd4", "value": 33.0 },
-    { "label": "Employee", "color": "1a488d", "value": 66.0 }
+    { "label": "Company", "color": "#8addd4", "value": 33.0 },
+    { "label": "Employee", "color": "#1a488d", "value": 66.0 }
   ],
-  
   "customSoloBreakout": [
     { "label": "SURP", "value": "$11,500" }
   ],
   "ptoBreakout": [
-    { "label": "label",
-      "value": "value"
-    }    
+    { "label": "label", "value": "value" }
   ],
   "summaryHeaderCol1": "Employee",
   "summaryHeaderCol2": "Employer",
@@ -56,21 +52,13 @@
     {
       "label": "Compensation",
       "shortLabel": "Cash Comp",
-      "color": "35b1ea",
+      "color": "#35b1ea",
       "items": [
-        {
-          "label": "Bonus",
-          "col1_value": 0.0,
-          "col2_value": 99475.200000000012
-        },
+        { "label": "Bonus", "col1_value": 0.0, "col2_value": 99475.200000000012 },
         { "label": "Incentive", "col1_value": 0.0, "col2_value": 43514.48 },
         { "label": "Consulting", "col1_value": 0.0, "col2_value": 2345.0 },
         { "label": "HSA ", "col1_value": 0.0, "col2_value": 8718.4 },
-        {
-          "label": "RetireGuard LTD ",
-          "col1_value": 0.0,
-          "col2_value": 1958.76
-        }
+        { "label": "RetireGuard LTD ", "col1_value": 0.0, "col2_value": 1958.76 }
       ],
       "col1_subtotal": 0.0,
       "col2_subtotal": 156011.84000000003
@@ -78,28 +66,12 @@
     {
       "label": "Taxes",
       "shortLabel": "Taxes",
-      "color": "ff0000",
+      "color": "#ff0000",
       "items": [
-        {
-          "label": "FICA (SS & Medicare)",
-          "col1_value": 26899.730000000003,
-          "col2_value": 21711.69542
-        },
-        {
-          "label": "Federal Income Tax Withheld",
-          "col1_value": 245654.63999999998,
-          "col2_value": 0.0
-        },
-        {
-          "label": "Federal Unemployment Insurance",
-          "col1_value": 0.0,
-          "col2_value": 42.0
-        },
-        {
-          "label": "State Unemployment Insurance",
-          "col1_value": 0.0,
-          "col2_value": 17.5
-        }
+        { "label": "FICA (SS & Medicare)", "col1_value": 26899.730000000003, "col2_value": 21711.69542 },
+        { "label": "Federal Income Tax Withheld", "col1_value": 245654.63999999998, "col2_value": 0.0 },
+        { "label": "Federal Unemployment Insurance", "col1_value": 0.0, "col2_value": 42.0 },
+        { "label": "State Unemployment Insurance", "col1_value": 0.0, "col2_value": 17.5 }
       ],
       "col1_subtotal": 272554.37,
       "col2_subtotal": 21771.19542
@@ -107,7 +79,7 @@
     {
       "label": "Insurance Benefits",
       "shortLabel": "Health",
-      "color": "5ee1ff",
+      "color": "#5ee1ff",
       "items": [
         { "label": "Medical ", "col1_value": 9294.12, "col2_value": 0.0 },
         { "label": "Dental", "col1_value": 1308.36, "col2_value": 0.0 },
@@ -119,13 +91,9 @@
     {
       "label": "Retirement Benefits",
       "shortLabel": "Retirement",
-      "color": "08ff00",
+      "color": "#08ff00",
       "items": [
-        {
-          "label": "Profit Sharing",
-          "col1_value": 23000.000000000004,
-          "col2_value": 0.0
-        }
+        { "label": "Profit Sharing", "col1_value": 23000.000000000004, "col2_value": 0.0 }
       ],
       "col1_subtotal": 23000.000000000004,
       "col2_subtotal": 0.0
@@ -133,13 +101,9 @@
     {
       "label": "Donations",
       "shortLabel": "Donations",
-      "color": "c84e5d",
+      "color": "#c84e5d",
       "items": [
-        {
-          "label": "AAOS",
-          "col1_value": 500.04000000000013,
-          "col2_value": 0.0
-        },
+        { "label": "AAOS", "col1_value": 500.04000000000013, "col2_value": 0.0 },
         { "label": "TOS", "col1_value": 249.95999999999992, "col2_value": 0.0 }
       ],
       "col1_subtotal": 750.0,
@@ -148,7 +112,7 @@
     {
       "label": "Miscellaneous",
       "shortLabel": "Misc",
-      "color": "d4d4d4",
+      "color": "#d4d4d4",
       "items": [
         {
           "label": "Business Expense Reimbursement Account (BERA)",
