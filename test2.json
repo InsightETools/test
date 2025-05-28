@@ -29,18 +29,35 @@
   "totalCompensationValue": 194560.25,
   "totalCompensation2Value": 194561.25,
   "tableColor": "#ff5f00",
-  "categoryGroups": [
-    { "label": "Cash Compensation", "color": "#ff5f00", "value": 85.0 },
+    "modules": [
+  {
+    "id": "Comp",
+    "label": "Compensation Breakdown",
+    "description": "Breakdown of total compensation",
+    "disclaimer": "Based on current estimates",
+    "totalValue": 120000,
+    "groups": [
+      { "label": "Cash Compensation", "color": "#ff5f00", "value": 85.0 },
     { "label": "Taxes", "color": "#146666", "value": 10.0 },
     { "label": "Healthcare", "color": "#a8dadc", "value": 3.0 },
     { "label": "Retirement", "color": "#06d6a0", "value": 1.0 },
     { "label": "Charitable Giving", "color": "#f4a261", "value": 0.5 },
     { "label": "Other Benefits", "color": "#bdbdbd", "value": 0.5 }
-  ],
-  "categoryGroups2": [
-    { "label": "Company", "color": "#ff5f00", "value": 40.0 },
-    { "label": "Employee", "color": "#146666", "value": 60.0 }
-  ],
+      ...
+    ]
+  },
+  {
+    "id": "Cost",
+    "label": "Cost Distribution",
+    "description": "How costs are split",
+    "disclaimer": "Subject to change",
+    "totalValue": 80000,
+    "groups": [
+      { "label": "Company", "value": 40, "color": "#FF5F00" },
+      { "label": "Employee", "value": 60, "color": "#146666" }
+    ]
+  }
+],
   "customSoloBreakout": [
     { "label": "Continuing Education Stipend", "value": "$1,500", "disclaimer": "Test Disclaimer"}
   ],
