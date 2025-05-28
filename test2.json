@@ -29,16 +29,16 @@
   "totalCompensation2Value": 194561.25,
   "tableColor": "#ff5f00",
   "categoryGroups": [
-    { "label": "Cash Compensation", "color": "ff5f00", "value": 85.0 },
-    { "label": "Taxes", "color": "146666", "value": 10.0 },
-    { "label": "Healthcare", "color": "a8dadc", "value": 3.0 },
-    { "label": "Retirement", "color": "06d6a0", "value": 1.0 },
-    { "label": "Charitable Giving", "color": "f4a261", "value": 0.5 },
-    { "label": "Other Benefits", "color": "bdbdbd", "value": 0.5 }
+    { "label": "Cash Compensation", "color": "#ff5f00", "value": 85.0 },
+    { "label": "Taxes", "color": "#146666", "value": 10.0 },
+    { "label": "Healthcare", "color": "#a8dadc", "value": 3.0 },
+    { "label": "Retirement", "color": "#06d6a0", "value": 1.0 },
+    { "label": "Charitable Giving", "color": "#f4a261", "value": 0.5 },
+    { "label": "Other Benefits", "color": "#bdbdbd", "value": 0.5 }
   ],
   "categoryGroups2": [
-    { "label": "Company", "color": "ff5f00", "value": 40.0 },
-    { "label": "Employee", "color": "146666", "value": 60.0 }
+    { "label": "Company", "color": "#ff5f00", "value": 40.0 },
+    { "label": "Employee", "color": "#146666", "value": 60.0 }
   ],
   "customSoloBreakout": [
     { "label": "Continuing Education Stipend", "value": "$1,500" }
@@ -52,7 +52,7 @@
     {
       "label": "Compensation",
       "shortLabel": "Compensation",
-      "color": "ff5f00",
+      "color": "#ff5f00",
       "items": [
         { "label": "Base Salary", "col1_value": 0.0, "col2_value": 120000.0 },
         { "label": "Performance Bonus", "col1_value": 0.0, "col2_value": 17500.0 },
@@ -66,7 +66,7 @@
     {
       "label": "Taxes",
       "shortLabel": "Taxes",
-      "color": "146666",
+      "color": "#146666",
       "items": [
         { "label": "FICA (SS & Medicare)", "col1_value": 9500.0, "col2_value": 7200.0 },
         { "label": "Federal Income Tax Withheld", "col1_value": 22300.0, "col2_value": 0.0 },
@@ -79,7 +79,7 @@
     {
       "label": "Insurance Benefits",
       "shortLabel": "Healthcare",
-      "color": "a8dadc",
+      "color": "#a8dadc",
       "items": [
         { "label": "Medical", "col1_value": 4320.0, "col2_value": 10800.0 },
         { "label": "Dental", "col1_value": 520.0, "col2_value": 1250.0 },
@@ -91,7 +91,7 @@
     {
       "label": "Retirement Benefits",
       "shortLabel": "Retirement",
-      "color": "06d6a0",
+      "color": "#06d6a0",
       "items": [
         { "label": "401(k) Contributions", "col1_value": 5800.0, "col2_value": 8200.0 }
       ],
@@ -101,7 +101,7 @@
     {
       "label": "Charitable Giving",
       "shortLabel": "Charitable",
-      "color": "f4a261",
+      "color": "#f4a261",
       "items": [
         { "label": "United Way", "col1_value": 300.0, "col2_value": 0.0 },
         { "label": "Community Care Fund", "col1_value": 200.0, "col2_value": 0.0 }
@@ -112,7 +112,7 @@
     {
       "label": "Miscellaneous",
       "shortLabel": "Other Benefits",
-      "color": "bdbdbd",
+      "color": "#bdbdbd",
       "items": [
         { "label": "Remote Work Stipend", "col1_value": 600.0, "col2_value": 0.0 },
         { "label": "Commuter Benefits", "col1_value": 600.0, "col2_value": 0.0 }
