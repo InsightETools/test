@@ -33,7 +33,7 @@
     "modules": [
   {
     "id": "Comp",
-    "label": "Compensation Breakdown",
+    "label": "Total Compensation",
     "description": "Breakdown of total compensation",
     "disclaimer": "Based on current estimates",
     "totalValue": 120000,
@@ -48,7 +48,7 @@
   },
   {
     "id": "Cost",
-    "label": "Cost Distribution",
+    "label": "Total Benefits Costs",
     "description": "How costs are split",
     "disclaimer": "Subject to change",
     "totalValue": 80000,
