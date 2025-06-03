@@ -1,196 +1,166 @@
 {
-  "companyName": "Orion UnHealth Partners",
+  "companyName": "",
   "coverSheet": true,
   "companyLogoCover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Orion_Health_Logo_2022.svg/1200px-Orion_Health_Logo_2022.svg.png",
   "companyLogoCoverHeight": 75,
   "companyLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Orion_Health_Logo_2022.svg/1200px-Orion_Health_Logo_2022.svg.png",
   "companyLogoHeight": 50,
-  "companyWelcome": "Hola",
-  "companyMessage": "At Orion Health Partners, we are dedicated to delivering'ing top-tier patient care while supporting our exceptional employees.\r\n\r\n\t\t\t\t\tYour contributions help drive innovation and compassionate service in everything we do. This annual statement highlights the investment we've made in your total compensation, benefits, and overall well-being.",
-  "companyRepName": "Maria Chen",
-  "companyRepTitle": "Director of People & Culture",
+  "companyWelcome": "",
+  "companyMessage": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt sem metus, eget congue diam semper eget. Aenean vestibulum rhoncus lorem, eu congue nisl mollis vitae. Vestibulum vehicula, felis id maximus tristique, dui elit lacinia erat, sed sagittis ipsum orci vel nunc. Integer ligula mi, luctus et lectus vitae, imperdiet iaculis diam. Fusce pellentesque varius nulla. Curabitur quis vulputate ex. Cras sed dolor nibh. Nunc iaculis, ex a dapibus consequat, velit massa pretium lectus, ut tempor nulla justo ut nisl. Cras ac neque eu risus tristique fringilla eget id sapien. Suspendisse potenti.",
+  "companyRepName": "",
+  "companyRepTitle": "",
   "companySignature": "",
-  "companySignatureText": "Sincerely, Maria Chen Director of People & Culture",
-  "companyAttn": "Human Resources Department",
-  "companyAddress": "450 Wellness Way",
-  "companyUnit": "Suite 200",
-  "companyCity": "Nashville",
-  "companyState": "TN",
-  "companyZip": "37203",
-  "employeeName": "Andrews, Taylor Renee",
-  "employeeFirstName": "Taylor Renee",
-  "employeeAddress": "809 Brookstone Court",
-  "employeeUnit": "Apt 4B",
-  "employeeCity": "Brentwood",
-  "employeeState": "TN",
-  "employeeZip": "37027",
-  "statementTitle": "Total Compensation Statement",
-  "statementRange": "January 2024 - December 2024",
-  "statementYear": "2024",
-  "statementEffectiveDate": "March 2025",
-  "statementDisclaimer": "Test Statement Disclaimer",
-  "primaryColor": "#ff5f00",
-  "secondaryColor": "#146666",
-  "tableColor": "#ff5f00",
-  "modulesDecimal": false,
-  "modulesSize": "small",
-  "modules": [
+  "companySignatureText": "Sincerely,",
+  "companyAttn": "",
+  "companyAddress": "",
+  "companyUnit": "",
+  "companyCity": "",
+  "companyState": "",
+  "companyZip": "",
+  "employeeName": "",
+  "employeeFirstName": "",
+  "employeeAddress": "",
+  "employeeUnit": "",
+  "employeeCity": "",
+  "employeeState": "",
+  "employeeZip": "",
+  "statementTitle": "",
+  "statementRange": "",
+  "lookbackYear": "",
+  "lookbackDescription": "",
+  "lookaheadYear": "",
+  "lookaheadDescription": "",
+  "statementEffectiveDate": "",
+  "statementDisclaimer": "",
+  "primaryColor": "#",
+  "secondaryColor": "#",
+  "tableColor": "#",
+
+  "donutChartDecimal": false,
+  "donutChartSize": "",
+  "donutCharts": [
     {
-      "id": "Comp",
-      "label": "Total Compensation",
-      "description": "Breakdown of total compensation",
-      "disclaimer": "Based on current estimates",
-      "totalValue": 120000.0,
-      "groups": [
-        { "label": "Cash Compensation", "color": "#ff5f00", "value": 85.0 },
-        { "label": "Taxes", "color": "#146666", "value": 10.0 },
-        { "label": "Healthcare", "color": "#a8dadc", "value": 3.0 },
-        { "label": "Retirement", "color": "#06d6a0", "value": 1.0 },
-        { "label": "Charitable Giving", "color": "#f4a261", "value": 0.5 },
-        { "label": "Other Benefits", "color": "#bdbdbd", "value": 0.5 }
-      ]
+      "id": "",
+      "label": "",
+      "description": "",
+      "disclaimer": "",
+      "totalValue": 0.0,
+      "groups": [{ "label": "", "color": "#", "value": 85.0 }]
     },
     {
-      "id": "Cost",
-      "label": "Total Benefits Costs",
-      "description": "How costs are split",
-      "disclaimer": "Subject to change",
+      "id": "",
+      "label": "",
+      "description": "",
+      "disclaimer": "",
       "totalValue": 80000.0,
-      "groups": [
-        { "label": "Company", "color": "#FF5F00", "value": 40.0 },
-        { "label": "Employee", "color": "#146666", "value": 60.0 }
+      "groups": [{ "label": "", "color": "#", "value": 40.0 }]
+    }
+  ],
+
+  "highlightModulesDecimal": false,
+  "highlightModules": [
+    {
+      "name": "",
+      "modules": [
+        {
+          "label": "",
+          "color": "#",
+          "value": ""
+        }
       ]
     }
   ],
-  "customSoloBreakoutDecimal": true,
-  "customSoloBreakout": [
+
+  "breakoutModulesDecimal": false,
+  "breakoutModules": [
     {
-      "label": "Continuing Education Stipend",
-      "value": 1500.0,
-      "disclaimer": "Test Disclaimer"
+      "label": "",
+      "description": "",
+      "disclaimer": "",
+      "modules": [{ "label": "", "value": "", "unit": "" }]
     }
   ],
-  "ptoBreakoutLabel": "PTO Breakdown",
-  "ptoBreakoutDescription": "",
-  "ptoBreakoutDecimal": true,
-  "ptoBreakoutDisclaimer": "Compensation for PTO is based on time received during the 20243-2024 school year only.",
-  "ptoBreakout": [
-    { "label": "Vacation", "value": "68", "unit": "hours" },
-    { "label": "Sick", "value": "8", "unit": "hours" },
-    { "label": "Personal Time", "value": "16", "unit": "hours" }
-  ],
-  "summaryHeaderCol1": "Employee",
-  "summaryHeaderCol2": "Employer",
-  "summaryGroupsDecimal": true,
-  "summaryGroups": [
+
+  "standardTables": [
     {
-      "label": "Compensation",
-      "shortLabel": "Compensation",
-      "color": "#ff5f00",
-      "items": [
-        { "label": "Base Salary", "col1_value": 0.0, "col2_value": 120000.0 },
+      "name": "",
+      "decimal": "",
+      "column1Name": "",
+      "column2Name": "",
+      "total": "",
+      "categories": [
         {
-          "label": "Performance Bonus",
-          "col1_value": 0.0,
-          "col2_value": 17500.0
-        },
-        { "label": "Overtime", "col1_value": 0.0, "col2_value": 3400.0 },
-        { "label": "On-call Pay", "col1_value": 0.0, "col2_value": 2600.0 },
-        {
-          "label": "Wellness Incentives",
-          "col1_value": 0.0,
-          "col2_value": 900.0
+          "label": "",
+          "shortLabel": "",
+          "color": "#",
+          "column1Subtotal": "",
+          "column2Subtotal": "",
+          "items": [
+            {
+              "label": "",
+              "column1Value": 0.0,
+              "column2Value": 0.0
+            }
+          ]
         }
-      ],
-      "col1_subtotal": 0.0,
-      "col2_subtotal": 144400.0
-    },
-    {
-      "label": "Taxes",
-      "shortLabel": "Taxes",
-      "color": "#146666",
-      "items": [
-        {
-          "label": "FICA (SS & Medicare)",
-          "col1_value": 9500.0,
-          "col2_value": 7200.0
-        },
-        {
-          "label": "Federal Income Tax Withheld",
-          "col1_value": 22300.0,
-          "col2_value": 0.0
-        },
-        {
-          "label": "Federal Unemployment Insurance",
-          "col1_value": 0.0,
-          "col2_value": 95.0
-        },
-        {
-          "label": "State Unemployment Insurance",
-          "col1_value": 0.0,
-          "col2_value": 50.0
-        }
-      ],
-      "col1_subtotal": 31800.0,
-      "col2_subtotal": 7345.0
-    },
-    {
-      "label": "Insurance Benefits",
-      "shortLabel": "Healthcare",
-      "color": "#a8dadc",
-      "items": [
-        { "label": "Medical", "col1_value": 4320.0, "col2_value": 10800.0 },
-        { "label": "Dental", "col1_value": 520.0, "col2_value": 1250.0 },
-        { "label": "Vision", "col1_value": 160.0, "col2_value": 400.0 }
-      ],
-      "col1_subtotal": 5000.0,
-      "col2_subtotal": 12450.0
-    },
-    {
-      "label": "Retirement Benefits",
-      "shortLabel": "Retirement",
-      "color": "#06d6a0",
-      "items": [
-        {
-          "label": "401(k) Contributions",
-          "col1_value": 5800.0,
-          "col2_value": 8200.0
-        }
-      ],
-      "col1_subtotal": 5800.0,
-      "col2_subtotal": 8200.0
-    },
-    {
-      "label": "Charitable Giving",
-      "shortLabel": "Charitable",
-      "color": "#f4a261",
-      "items": [
-        { "label": "United Way", "col1_value": 300.0, "col2_value": 0.0 },
-        {
-          "label": "Community Care Fund",
-          "col1_value": 200.0,
-          "col2_value": 0.0
-        }
-      ],
-      "col1_subtotal": 500.0,
-      "col2_subtotal": 0.0
-    },
-    {
-      "label": "Miscellaneous",
-      "shortLabel": "Other Benefits",
-      "color": "#bdbdbd",
-      "items": [
-        {
-          "label": "Remote Work Stipend",
-          "col1_value": 600.0,
-          "col2_value": 0.0
-        },
-        { "label": "Commuter Benefits", "col1_value": 600.0, "col2_value": 0.0 }
-      ],
-      "col1_subtotal": 1200.0,
-      "col2_subtotal": 0.0
+      ]
     }
   ],
-  "col1_GrandTotal": 44300.0,
-  "col2_GrandTotal": 172395.0
+
+  "enrolledTables": [
+    {
+      "name": "",
+      "decimal": "",
+      "coverageColumnName": "",
+      "enrolledColumnName": "",
+      "column1Name": "",
+      "column2Name": "",
+      "totalColumnName": "",
+      "total": "",
+      "categories": [
+        {
+          "label": "",
+          "shortLabel": "",
+          "color": "#",
+          "items": [
+            {
+              "label": "",
+              "enrolled": "",
+              "coverage": "",
+              "column1Value": 0.0,
+              "column2Value": 0.0,
+              "totalValue": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "benefitDetails": [
+    {
+      "label": "",
+      "description": ""
+    }
+  ],
+  "companyHolidays": [
+    {
+      "name": "",
+      "date": "",
+      "weekday": ""
+    }
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "list": [
+        {
+          "name": "",
+          "description": "",
+          "contact": "",
+          "type": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
 }
