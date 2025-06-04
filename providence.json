@@ -197,6 +197,121 @@
           "col3_subtotal": 38345.0
         }
       ]
+    },
+    {
+      "name": "pay and stuff",
+      "isDecimal": true,
+      "column1Name": "Ee",
+      "column2Name": "er",
+      "column3Name": "both",
+      "column1Total": 44300.0,
+      "column2Total": 172395.0,
+      "column3Total": 872395.0,
+      "totalLineName": "grand",
+      "categories": [
+        {
+          "label": "Compensddation",
+          "shortLabel": "Compensation",
+          "color": "#0000ff",
+          "items": [
+            {
+              "label": "Base Salarssy",
+              "col1_value": 0.0,
+              "col2_value": 120000.5,
+              "col3_value": 120000.5
+            },
+            {
+              "label": "Performanssce Bonus",
+              "col1_value": 0.0,
+              "col2_value": 17500.0,
+              "col3_value": 17500.0
+            },
+            {
+              "label": "Overtissme",
+              "col1_value": 0.0,
+              "col2_value": 3400.0,
+              "col3_value": 3400.0
+            },
+            {
+              "label": "On-calssl Pay",
+              "col1_value": 0.0,
+              "col2_value": 2600.0,
+              "col3_value": 2600.0
+            },
+            {
+              "label": "Wellnessss Incentives",
+              "col1_value": 0.0,
+              "col2_value": 900.0,
+              "col3_value": 900.0
+            }
+          ],
+          "col1_subtotal": 0.0,
+          "col2_subtotal": 144400.5,
+          "col3_subtotal": 144400.5
+        },
+        {
+          "label": "Taxes",
+          "shortLabel": "Taxes",
+          "color": "#146666",
+          "items": [
+            {
+              "label": "FICA (SS & Medicare)",
+              "col1_value": 9500.0,
+              "col2_value": 7200.0,
+              "col3_value": 10000.0
+            },
+            {
+              "label": "Federal Income Tax Withheld",
+              "col1_value": 22300.0,
+              "col2_value": 0.0,
+              "col3_value": 10000.0
+            },
+            {
+              "label": "Federal Unemployment Insurance",
+              "col1_value": 0.0,
+              "col2_value": 95.0,
+              "col3_value": 10000.0
+            },
+            {
+              "label": "State Unemployment Insurance",
+              "col1_value": 0.0,
+              "col2_value": 50.0,
+              "col3_value": 10000.0
+            }
+          ],
+          "col1_subtotal": 31800.0,
+          "col2_subtotal": 7345.0,
+          "col3_subtotal": 38345.0
+        },
+        {
+          "label": "Insurance Benefits",
+          "shortLabel": "Healthcare",
+          "color": "#a8dadc",
+          "items": [
+            {
+              "label": "Medical",
+              "col1_value": 4320.0,
+              "col2_value": 10800.0,
+              "col3_value": 10000.0
+            },
+            {
+              "label": "Dental",
+              "col1_value": 520.0,
+              "col2_value": 1250.0,
+              "col3_value": 10000.0
+            },
+            {
+              "label": "Vision",
+              "col1_value": 160.0,
+              "col2_value": 400.0,
+              "col3_value": 10000.0
+            }
+          ],
+          "col1_subtotal": 5000.0,
+          "col2_subtotal": 12450.0,
+          "col3_subtotal": 38345.0
+        }
+      ]
     }
   ]
 }
