@@ -87,7 +87,11 @@
       "decimal": "",
       "column1Name": "",
       "column2Name": "",
-      "total": "",
+      "column3Name": "",
+      "column1Total": "",
+      "column2Total": "",
+      "column3Total": "",
+      "grandTotalName": "",
       "categories": [
         {
           "label": "",
